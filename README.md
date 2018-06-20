@@ -12,3 +12,6 @@ Todo's:
 - [ ] Performance
 - [ ] UI to start / stop, set speed / algorithm etc.
 - [ ] Show extra details like swaps / comparisons
+
+Screenshot
+![image](https://lensert.com/rkz5rldbm)
